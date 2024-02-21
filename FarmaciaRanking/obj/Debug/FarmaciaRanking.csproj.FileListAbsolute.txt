@@ -1,0 +1,11 @@
+C:\Users\diego.dfferreira1\source\repos\FarmaciaRanking\FarmaciaRanking\bin\Debug\FarmaciaRanking.exe.config
+C:\Users\diego.dfferreira1\source\repos\FarmaciaRanking\FarmaciaRanking\bin\Debug\FarmaciaRanking.exe
+C:\Users\diego.dfferreira1\source\repos\FarmaciaRanking\FarmaciaRanking\bin\Debug\FarmaciaRanking.pdb
+C:\Users\diego.dfferreira1\source\repos\FarmaciaRanking\FarmaciaRanking\obj\Debug\FarmaciaRanking.csproj.AssemblyReference.cache
+C:\Users\diego.dfferreira1\source\repos\FarmaciaRanking\FarmaciaRanking\obj\Debug\FarmaciaRanking.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego.dfferreira1\source\repos\FarmaciaRanking\FarmaciaRanking\obj\Debug\FarmaciaRanking.Form1.resources
+C:\Users\diego.dfferreira1\source\repos\FarmaciaRanking\FarmaciaRanking\obj\Debug\FarmaciaRanking.Properties.Resources.resources
+C:\Users\diego.dfferreira1\source\repos\FarmaciaRanking\FarmaciaRanking\obj\Debug\FarmaciaRanking.csproj.GenerateResource.cache
+C:\Users\diego.dfferreira1\source\repos\FarmaciaRanking\FarmaciaRanking\obj\Debug\FarmaciaRanking.csproj.CoreCompileInputs.cache
+C:\Users\diego.dfferreira1\source\repos\FarmaciaRanking\FarmaciaRanking\obj\Debug\FarmaciaRanking.exe
+C:\Users\diego.dfferreira1\source\repos\FarmaciaRanking\FarmaciaRanking\obj\Debug\FarmaciaRanking.pdb
