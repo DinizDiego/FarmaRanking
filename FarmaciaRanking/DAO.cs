@@ -21,6 +21,11 @@ namespace FarmaciaRanking
         public string[] telefone;
         public string[] plan;
         public string[] farmacia;
+        public string[] produto;
+        public string[] codigoProduto;
+        public string[] nomeProduto;
+        public int[] quantidade;
+        public int[] custo;
         public int i;
         public int contador;
 
@@ -120,7 +125,63 @@ namespace FarmaciaRanking
                     return i;
                 }//fim do if
             }//fim do for
-            return -1;//Flag = Bandeira|Sinal
+            return -1;//Flag
+        }//fim do método
+
+        public void InserirProduto(int codigo, string nome, int quantidade, int custo)
+        {
+            dados = "('" + codigo + "','" + nome + "','" + quantidade + "','" + custo + "')";
+            sql = "insert into pessoa(codigo, nome, quantidade, custo) values" + dados;
+
+            try
+            {
+                MySqlCommand conn = new MySqlCommand(sql, conexao);
+                MessageBox.Show(conn.ExecuteNonQuery() + " dado inserido!");
+            }
+            catch (Exception erro)
+            {
+                MessageBox.Show("Algo deu errado!\n\n" + erro);
+            }
+        }//fim do método
+
+        public void PreencherVetorProduto()
+        {
+            string query = "select * from pessoa";
+
+            //Instanciar os vetores
+            this.codigo = new int[100];
+            this.nome = new string[100];
+            this.quantidade = new int[100];
+            this.custo = new int[100];
+
+            //Preencher com valores genéricos
+            for (i = 0; i < 100; i++)
+            {
+                codigo[i] = 0;
+                nome[i] = "";
+                quantidade[i] = 0;
+                custo[i] = 0;
+            }//fim do for
+
+            //Criar o comando de consultar no BD
+            MySqlCommand coletar = new MySqlCommand(query, conexao);
+            //Listar todos os dados que estão no banco
+            MySqlDataReader leitura = coletar.ExecuteReader();
+
+            i = 0;//Utilizar novamente o contar i
+            contador = 0;//Contar quantos dados eu tenho no banco
+            while (leitura.Read())
+            {
+                codigo[i] = Convert.ToInt32(leitura["codigo"]);
+                nome[i] = "" + leitura["nome"];
+                quantidade[i] = Convert.ToInt32(leitura["quantidade"]);
+                custo[i] = Convert.ToInt32(leitura["custo"]);
+                i++;//Mudando o contador
+                contador++;//Contar quantos dados tem no banco
+            }//fim do while
+
+            //Encerrar o banco
+            leitura.Close();
         }//fim do método
 
     }//Fim da classe

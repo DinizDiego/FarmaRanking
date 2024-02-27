@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1121F9B-BC55-41D1-BBDC-EFA3CB946312}|FarmaciaRanking\\FarmaciaRanking.csproj|c:\\users\\diniz\\source\\repos\\farmaranking\\farmaciaranking\\cadastrarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1121F9B-BC55-41D1-BBDC-EFA3CB946312}|FarmaciaRanking\\FarmaciaRanking.csproj|solutionrelative:farmaciaranking\\cadastrarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1121F9B-BC55-41D1-BBDC-EFA3CB946312}|FarmaciaRanking\\FarmaciaRanking.csproj|c:\\users\\diniz\\source\\repos\\farmaranking\\farmaciaranking\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1121F9B-BC55-41D1-BBDC-EFA3CB946312}|FarmaciaRanking\\FarmaciaRanking.csproj|solutionrelative:farmaciaranking\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1121F9B-BC55-41D1-BBDC-EFA3CB946312}|FarmaciaRanking\\FarmaciaRanking.csproj|c:\\users\\diniz\\source\\repos\\farmaranking\\farmaciaranking\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1121F9B-BC55-41D1-BBDC-EFA3CB946312}|FarmaciaRanking\\FarmaciaRanking.csproj|solutionrelative:farmaciaranking\\cadastrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1121F9B-BC55-41D1-BBDC-EFA3CB946312}|FarmaciaRanking\\FarmaciaRanking.csproj|c:\\users\\diniz\\source\\repos\\farmaranking\\farmaciaranking\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1121F9B-BC55-41D1-BBDC-EFA3CB946312}|FarmaciaRanking\\FarmaciaRanking.csproj|solutionrelative:farmaciaranking\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1121F9B-BC55-41D1-BBDC-EFA3CB946312}|FarmaciaRanking\\FarmaciaRanking.csproj|c:\\users\\diniz\\source\\repos\\farmaranking\\farmaciaranking\\cadastrarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1121F9B-BC55-41D1-BBDC-EFA3CB946312}|FarmaciaRanking\\FarmaciaRanking.csproj|solutionrelative:farmaciaranking\\cadastrarproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1121F9B-BC55-41D1-BBDC-EFA3CB946312}|FarmaciaRanking\\FarmaciaRanking.csproj|C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\farmaciaranking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1121F9B-BC55-41D1-BBDC-EFA3CB946312}|FarmaciaRanking\\FarmaciaRanking.csproj|solutionrelative:farmaciaranking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1121F9B-BC55-41D1-BBDC-EFA3CB946312}|FarmaciaRanking\\FarmaciaRanking.csproj|C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\farmaciaranking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1121F9B-BC55-41D1-BBDC-EFA3CB946312}|FarmaciaRanking\\FarmaciaRanking.csproj|solutionrelative:farmaciaranking\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastrarProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\FarmaciaRanking\\CadastrarProduto.cs",
+              "RelativeDocumentMoniker": "FarmaciaRanking\\CadastrarProduto.cs",
+              "ToolTip": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\FarmaciaRanking\\CadastrarProduto.cs",
+              "RelativeToolTip": "FarmaciaRanking\\CadastrarProduto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:50:34.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadastrarProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\FarmaciaRanking\\CadastrarProduto.cs",
+              "RelativeDocumentMoniker": "FarmaciaRanking\\CadastrarProduto.cs",
+              "ToolTip": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\FarmaciaRanking\\CadastrarProduto.cs [Design]",
+              "RelativeToolTip": "FarmaciaRanking\\CadastrarProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T19:21:50.031Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAO.cs",
+              "DocumentMoniker": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\FarmaciaRanking\\DAO.cs",
+              "RelativeDocumentMoniker": "FarmaciaRanking\\DAO.cs",
+              "ToolTip": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\FarmaciaRanking\\DAO.cs",
+              "RelativeToolTip": "FarmaciaRanking\\DAO.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAwJoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:37:27.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadastrar.cs",
+              "DocumentMoniker": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\FarmaciaRanking\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "FarmaciaRanking\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\FarmaciaRanking\\Cadastrar.cs",
+              "RelativeToolTip": "FarmaciaRanking\\Cadastrar.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwEgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:30:03.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cadastrar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\FarmaciaRanking\\Cadastrar.cs",
+              "RelativeDocumentMoniker": "FarmaciaRanking\\Cadastrar.cs",
+              "ToolTip": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\FarmaciaRanking\\Cadastrar.cs [Design]",
+              "RelativeToolTip": "FarmaciaRanking\\Cadastrar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:37:33.395Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\FarmaciaRanking\\Form1.cs",
+              "RelativeDocumentMoniker": "FarmaciaRanking\\Form1.cs",
+              "ToolTip": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\FarmaciaRanking\\Form1.cs",
+              "RelativeToolTip": "FarmaciaRanking\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwCIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:30:03.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\FarmaciaRanking\\Form1.cs",
+              "RelativeDocumentMoniker": "FarmaciaRanking\\Form1.cs",
+              "ToolTip": "C:\\Users\\Diniz\\source\\repos\\FarmaRanking\\FarmaciaRanking\\Form1.cs [Design]",
+              "RelativeToolTip": "FarmaciaRanking\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T18:30:03.729Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

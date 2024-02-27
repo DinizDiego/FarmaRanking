@@ -53,12 +53,16 @@
             this.cadastrarProduto.TabIndex = 1;
             this.cadastrarProduto.Text = "Cadastrar Produto";
             this.cadastrarProduto.UseVisualStyleBackColor = true;
+            this.cadastrarProduto.Click += new System.EventHandler(this.cadastrarProduto_Click);
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(208, 20);
+            this.textBox1.BackColor = System.Drawing.Color.Firebrick;
+            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox1.Font = new System.Drawing.Font("Times New Roman", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(179, 12);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(113, 20);
+            this.textBox1.Size = new System.Drawing.Size(187, 43);
             this.textBox1.TabIndex = 2;
             this.textBox1.Text = "Bem Vindo!!!";
             // 
@@ -67,7 +71,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::FarmaciaRanking.Properties.Resources.wallpapers_crfrs_81;
-            this.ClientSize = new System.Drawing.Size(529, 405);
+            this.ClientSize = new System.Drawing.Size(529, 521);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.cadastrarProduto);
             this.Controls.Add(this.cadastrarCliente);

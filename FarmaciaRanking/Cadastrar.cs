@@ -21,37 +21,37 @@ namespace FarmaciaRanking
         private void codigoo_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
         {
 
-        }
+        }//Fim do campo Código
 
         private void nomee_TextChanged(object sender, EventArgs e)
         {
 
-        }
+        }//Fim do campo Nome
 
         private void rgg_TextChanged(object sender, EventArgs e)
         {
 
-        }
+        }//fim do campo RG
 
         private void telefonee_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
         {
 
-        }
+        }//Fim do campo Telefone
 
         private void plan_TextChanged(object sender, EventArgs e)
         {
 
-        }
+        }//Fim do campo Plano de Sáude
 
         private void farmacia_TextChanged(object sender, EventArgs e)
         {
 
-        }
+        }//Fim do campo Farmácia popular
 
         private void produto_TextChanged(object sender, EventArgs e)
         {
 
-        }
+        }//Fim do campo produto
 
         private void botaoCadastrar_Click(object sender, EventArgs e)
         {
